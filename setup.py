@@ -3,7 +3,7 @@ from distutils.core import setup
 
 setup(
     name='django-qunit',
-    version='0.1.1.sm1',
+    version='0.1.1.sm2',
     description='QUnit Javascript testing integration for Django.',
     long_description=open('README.md').read(),
     author='Cody Soyland',
